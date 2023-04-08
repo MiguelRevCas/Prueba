@@ -14,7 +14,7 @@ public class Document_and_DocumentListener {
 
 		MarcoPruebaArea marco=new MarcoPruebaArea();
 		
-		int a=1;
+		
 		
 	}
 
