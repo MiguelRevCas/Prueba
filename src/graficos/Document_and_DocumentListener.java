@@ -10,10 +10,8 @@ import javax.swing.text.Document;
 public class Document_and_DocumentListener {
 
 	public static void main(String[] args) {
-	
 
 		MarcoPruebaArea marco=new MarcoPruebaArea();
-		
 		
 	}
 
